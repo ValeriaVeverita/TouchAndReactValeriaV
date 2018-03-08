@@ -1,7 +1,4 @@
------------------------------------------------------------------------------------------
---
--- main.lua
---
------------------------------------------------------------------------------------------
-
--- Your code here
+-- Title: TouchAndReact
+-- Name: Valeria V
+-- Course: ICS2O
+-- This program displas a buton that when I click on it turns color and displays text and another object.
